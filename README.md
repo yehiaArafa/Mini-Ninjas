@@ -1,5 +1,7 @@
 # Mini-Ninjas
 A 2d java game where u must avoid being killes by enemies and go to the finish line in order to proceed to next level     
+
+![minininjas](https://user-images.githubusercontent.com/10212354/27887966-c0cf26a2-61e3-11e7-8fcb-7d399c4d5cf5.jpg)
 ## Level 1   
 ![10955752_1544502782474766_8504163769513700478_n](https://cloud.githubusercontent.com/assets/10212354/22993051/41ef582a-f3ca-11e6-8b39-8afa86eb8c62.jpg)
 ## Level 2   
